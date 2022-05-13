@@ -2,7 +2,7 @@
 
 # ABSTRACT :
 
-
+ A wiper is a component that cleans raindrops from the windscreen of a car.The wipers had to be activated manually by setting the frequency. The operation of increasing the wiper speed is modified as a result. The project is to improve the systems of older cars by providing automated transmission. wiping technology, to improve the system by including a sensor and actuator, and to develop a basic programme that would work with the system completely. The fact that To drain water from the windscreen, this system will be updated to an automatic control system.
 
 # INTRDUCTION
 Wiper system is the utility project. It is used to clean the wind shield of the car at the front and rear. Wiper works by removing oil,dust,rain water and dirt.That get struck to the wind shield and the arm is provided by the motor.The warm gear is able to generate the force required to move the wipers as fast as they need to move. now a days we have an automatic wiper control when ever we stop wiping in between the process it will automatically comes to initial position this is the new wiper system as behined in the wiper arm.The car wipers that have been available in the present day market are manual systems that work on the principle of manual switching.Our proposed system proposes an automatic wiper system that automatically switches ON the wiper on detection of rain and stops the wiper action when rain stops. This system eases the work of driver by eliminating the manual human intervention for initiating the wiper action, thereby contributing to the comfort driving.
